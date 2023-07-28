@@ -20,11 +20,11 @@
     <string name="permlab_modifyProfiles">izmijeni profile sustava</string>
     <string name="permdesc_modifyProfiles">Dopušta aplikaciji da izmijeni profile sustava.</string>
     <string name="permlab_useHardwareFramework">koristi hardware framework</string>
-    <string name="permdesc_useHardwareFramework">Dopušta aplikaciji pristupiti Lineage hardware framework.</string>
-    <string name="permlab_writeSettings">promijeni Lineage postavke sigurnosti sustava</string>
-    <string name="permdesc_writeSettings">Dopušta aplikaciji da izmijeni postavke sustava Lineage.</string>
-    <string name="permlab_writeSecureSettings">promijeni Lineage postavke sigurnosti sustava</string>
-    <string name="permdesc_writeSecureSettings">Dopušta aplikaciji da promjeni Lineage postavke sigurnosti sustava. Nije za korištenje kod normalnih aplikacija.</string>
+    <string name="permdesc_useHardwareFramework">Dopušta aplikaciji pristupiti AlphaDroid hardware framework.</string>
+    <string name="permlab_writeSettings">promijeni AlphaDroid postavke sigurnosti sustava</string>
+    <string name="permdesc_writeSettings">Dopušta aplikaciji da izmijeni postavke sustava AlphaDroid.</string>
+    <string name="permlab_writeSecureSettings">promijeni AlphaDroid postavke sigurnosti sustava</string>
+    <string name="permdesc_writeSecureSettings">Dopušta aplikaciji da promjeni AlphaDroid postavke sigurnosti sustava. Nije za korištenje kod normalnih aplikacija.</string>
     <string name="profileNameDefault">Zadano</string>
     <string name="profileNameWork">Posao</string>
     <string name="profileNameHome">Kuća</string>

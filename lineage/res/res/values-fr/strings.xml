@@ -20,10 +20,10 @@
     <string name="permlab_modifyProfiles">modifier les profils système</string>
     <string name="permdesc_modifyProfiles">Permet à une application de modifier les profils système.</string>
     <string name="permlab_useHardwareFramework">utiliser le framework matériel</string>
-    <string name="permdesc_useHardwareFramework">Autorise une application à accéder au framework matériel de Lineage.</string>
-    <string name="permlab_writeSettings">modifier les paramètres système de Lineage</string>
-    <string name="permdesc_writeSettings">Autorise une application à modifier les paramètres système de Lineage.</string>
-    <string name="permlab_writeSecureSettings">modifier les paramètres de sécurité système de Lineage</string>
+    <string name="permdesc_useHardwareFramework">Autorise une application à accéder au framework matériel de AlphaDroid.</string>
+    <string name="permlab_writeSettings">modifier les paramètres système de AlphaDroid</string>
+    <string name="permdesc_writeSettings">Autorise une application à modifier les paramètres système de AlphaDroid.</string>
+    <string name="permlab_writeSecureSettings">modifier les paramètres de sécurité système de AlphaDroid</string>
     <string name="permdesc_writeSecureSettings">Autorise une application à modifier les paramètres de sécurité du système. Les applications standards ne doivent pas utiliser cette fonctionnalité.</string>
     <string name="profileNameDefault">Par défaut</string>
     <string name="profileNameWork">Bureau</string>
@@ -85,5 +85,7 @@
     <string name="trust_notification_action_manage">Gérer les alertes</string>
     <string name="charging_control_notification_channel">Contrôle de la charge</string>
     <string name="charging_control_notification_title">Contrôle de la charge</string>
+    <string name="charging_control_notification_content_limit">La batterie sera chargée à %1$d%%</string>
+    <string name="charging_control_notification_content_limit_reached">La batterie est chargée à %1$d%%</string>
     <string name="charging_control_notification_content_target_reached">La batterie est chargée</string>
 </resources>

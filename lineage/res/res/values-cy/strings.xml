@@ -20,10 +20,10 @@
     <string name="permlab_modifyProfiles">addasu proffiliau system</string>
     <string name="permdesc_modifyProfiles">Mae\'n caniatáu i ap addasu proffiliau system.</string>
     <string name="permlab_useHardwareFramework">defnyddio fframwaith caledwedd</string>
-    <string name="permdesc_useHardwareFramework">Mae\'n caniatáu i ap gyrchu fframwaith caledwedd Lineage.</string>
-    <string name="permlab_writeSettings">addasu gosodiadau system Lineage</string>
+    <string name="permdesc_useHardwareFramework">Mae\'n caniatáu i ap gyrchu fframwaith caledwedd AlphaDroid.</string>
+    <string name="permlab_writeSettings">addasu gosodiadau system AlphaDroid</string>
     <string name="permdesc_writeSettings">Mae\'n caniatáu i ap addasu gosodiadau system AlphaDroid.</string>
-    <string name="permlab_writeSecureSettings">addasu gosodiadau system ddiogel Lineage</string>
+    <string name="permlab_writeSecureSettings">addasu gosodiadau system ddiogel AlphaDroid</string>
     <string name="permdesc_writeSecureSettings">Mae\'n caniatáu i ap addasu gosodiadau system ddiogel AlphaDroid. Dim i\'w ddefnyddio gan apiau arferol.</string>
     <string name="profileNameDefault">Rhagosodiad</string>
     <string name="profileNameWork">Gwaith</string>
