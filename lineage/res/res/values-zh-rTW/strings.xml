@@ -20,11 +20,11 @@
     <string name="permlab_modifyProfiles">修改系統設定檔</string>
     <string name="permdesc_modifyProfiles">允許應用程式修改系統設定檔。</string>
     <string name="permlab_useHardwareFramework">使用硬體框架</string>
-    <string name="permdesc_useHardwareFramework">允許應用程式存取 Lineage 硬體框架。</string>
-    <string name="permlab_writeSettings">修改 Lineage 系統設定</string>
-    <string name="permdesc_writeSettings">允許應用程式修改 Lineage 系統設定。</string>
-    <string name="permlab_writeSecureSettings">修改 Lineage 系統安全設定</string>
-    <string name="permdesc_writeSecureSettings">允許應用程式修改 Lineage 系統安全設定。僅供偵錯使用。</string>
+    <string name="permdesc_useHardwareFramework">允許應用程式存取 AlphaDroid 硬體框架。</string>
+    <string name="permlab_writeSettings">修改 AlphaDroid 系統設定</string>
+    <string name="permdesc_writeSettings">允許應用程式修改 AlphaDroid 系統設定。</string>
+    <string name="permlab_writeSecureSettings">修改 AlphaDroid 系統安全設定</string>
+    <string name="permdesc_writeSecureSettings">允許應用程式修改 AlphaDroid 系統安全設定。僅供偵錯使用。</string>
     <string name="profileNameDefault">預設</string>
     <string name="profileNameWork">工作</string>
     <string name="profileNameHome">住家</string>
@@ -83,4 +83,11 @@
     <string name="trust_notification_title_onboarding">探索信任</string>
     <string name="trust_notification_content_onboarding">了解如何確保您的裝置安全</string>
     <string name="trust_notification_action_manage">管理警告</string>
+    <string name="charging_control_notification_channel">充電控制</string>
+    <string name="charging_control_notification_title">充電控制</string>
+    <string name="charging_control_notification_cancel_once">取消</string>
+    <string name="charging_control_notification_content_limit">電池將會充電至 %1$d%%</string>
+    <string name="charging_control_notification_content_limit_reached">電池已充電至 %1$d%%</string>
+    <string name="charging_control_notification_content_target">電池已在 %1$s 完全充飽</string>
+    <string name="charging_control_notification_content_target_reached">電池已完成充電</string>
 </resources>

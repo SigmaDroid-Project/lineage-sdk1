@@ -21,10 +21,10 @@
     <string name="permdesc_modifyProfiles">السماح للتطبيق بتعديل الملفات التعريفية للنظام.</string>
     <string name="permlab_useHardwareFramework">استخدام إطار عمل الجهاز</string>
     <string name="permdesc_useHardwareFramework">السماح لأي تطبيق بالدخول إلى مكونات أجهزة النظام.</string>
-    <string name="permlab_writeSettings">تعديل اعدادات نظام Lineage</string>
-    <string name="permdesc_writeSettings">السماح لأي تطبيق بتعديل إعدادات نظام Lineage.</string>
-    <string name="permlab_writeSecureSettings">تعديل تأمين اعدادات نظام Lineage</string>
-    <string name="permdesc_writeSecureSettings">للسماح لأي تطبيق بتعديل إعدادات أمان نظام Lineage. لا تستخدم التطبيقات العادية.</string>
+    <string name="permlab_writeSettings">تعديل اعدادات نظام AlphaDroid</string>
+    <string name="permdesc_writeSettings">السماح لأي تطبيق بتعديل إعدادات نظام AlphaDroid.</string>
+    <string name="permlab_writeSecureSettings">تعديل تأمين اعدادات نظام AlphaDroid</string>
+    <string name="permdesc_writeSecureSettings">للسماح لأي تطبيق بتعديل إعدادات أمان نظام AlphaDroid. لا تستخدم التطبيقات العادية.</string>
     <string name="profileNameDefault">افتراضي</string>
     <string name="profileNameWork">العمل</string>
     <string name="profileNameHome">المنزل</string>

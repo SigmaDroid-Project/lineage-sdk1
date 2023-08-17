@@ -20,11 +20,11 @@
     <string name="permlab_modifyProfiles">sistem profillərini dəyişdir</string>
     <string name="permdesc_modifyProfiles">Tətbiqetməyə sistem profillərini dəyişdirmə icazəsi verər.</string>
     <string name="permlab_useHardwareFramework">avadanlıq bünövrəsindən istifadə et</string>
-    <string name="permdesc_useHardwareFramework">Tətbiqetmənin Lineage avadanlıq bünövrəsinə müraciətinə icazə verər.</string>
-    <string name="permlab_writeSettings">Lineage sistem tənzimləmələrini dəyişdirər</string>
-    <string name="permdesc_writeSettings">Tətbiqetməyə Lineage sistem tənzimləmələrini dəyişdirməyə icazə verər.</string>
-    <string name="permlab_writeSecureSettings">Lineage təhlükəsiz sistem tənzimləmələrini dəyişdir</string>
-    <string name="permdesc_writeSecureSettings">Tətbiqetməyə Lineage təhlükəsiz sistem tənzimləmələrini dəyişdirməyə icazə verər. Normal tətbiqlər tərəfindən istifadə edilmir.</string>
+    <string name="permdesc_useHardwareFramework">Tətbiqetmənin AlphaDroid avadanlıq bünövrəsinə müraciətinə icazə verər.</string>
+    <string name="permlab_writeSettings">AlphaDroid sistem tənzimləmələrini dəyişdirər</string>
+    <string name="permdesc_writeSettings">Tətbiqetməyə AlphaDroid sistem tənzimləmələrini dəyişdirməyə icazə verər.</string>
+    <string name="permlab_writeSecureSettings">AlphaDroid təhlükəsiz sistem tənzimləmələrini dəyişdir</string>
+    <string name="permdesc_writeSecureSettings">Tətbiqetməyə AlphaDroid təhlükəsiz sistem tənzimləmələrini dəyişdirməyə icazə verər. Normal tətbiqlər tərəfindən istifadə edilmir.</string>
     <string name="profileNameDefault">İlkin</string>
     <string name="profileNameWork">İş</string>
     <string name="profileNameHome">Ev</string>

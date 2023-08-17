@@ -20,11 +20,11 @@
     <string name="permlab_modifyProfiles">ändra systemprofiler</string>
     <string name="permdesc_modifyProfiles">Tillåter att en app ändrar systemprofiler.</string>
     <string name="permlab_useHardwareFramework">använda hårdvaruramverk</string>
-    <string name="permdesc_useHardwareFramework">Ger en app åtkomst till crDroid hårdvaruramverk.</string>
-    <string name="permlab_writeSettings">ändra Lineages systeminställningar</string>
-    <string name="permdesc_writeSettings">Tillåter en app att ändra Lineages systeminställningar.</string>
-    <string name="permlab_writeSecureSettings">ändra skyddade Lineage-inställningar</string>
-    <string name="permdesc_writeSecureSettings">Tillåter en app att ändra skyddade Lineage-inställningar. Ska inte användas av vanliga appar.</string>
+    <string name="permdesc_useHardwareFramework">Ger en app åtkomst till AlphaDroid hårdvaruramverk.</string>
+    <string name="permlab_writeSettings">ändra AlphaDroids systeminställningar</string>
+    <string name="permdesc_writeSettings">Tillåter en app att ändra AlphaDroids systeminställningar.</string>
+    <string name="permlab_writeSecureSettings">ändra skyddade AlphaDroid-inställningar</string>
+    <string name="permdesc_writeSecureSettings">Tillåter en app att ändra skyddade AlphaDroid-inställningar. Ska inte användas av vanliga appar.</string>
     <string name="profileNameDefault">Standard</string>
     <string name="profileNameWork">Jobb</string>
     <string name="profileNameHome">Hemma</string>
@@ -63,7 +63,7 @@
     <string name="permlab_manageRemotePrefs">hantera fjärrinställningar</string>
     <string name="permdesc_manageRemotePrefs">Tillåter en app att hantera fjärrinställningar</string>
     <string name="build_date">Kompileringsdatum</string>
-    <string name="lineage_api_level">API-nivå för crDroid</string>
+    <string name="lineage_api_level">API-nivå för SigmaDroid</string>
     <string name="lineage_updates">SigmaDroid-uppdateringar</string>
     <string name="lineage_version">SigmaDroid-version</string>
     <string name="lineage_vendor_security_patch">Säkerhetsprogramvaruversion</string>

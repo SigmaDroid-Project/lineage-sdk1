@@ -20,11 +20,11 @@
     <string name="permlab_modifyProfiles">rendszerprofilok módosítása</string>
     <string name="permdesc_modifyProfiles">Lehetővé teszi az alkalmazás számára a rendszerprofilok módosítását.</string>
     <string name="permlab_useHardwareFramework">hardver keretrendszert használ</string>
-    <string name="permdesc_useHardwareFramework">Lehetővé teszi egy alkalmazás számára, hogy hozzáférjen a Lineage hardver-keretrendszeréhez.</string>
-    <string name="permlab_writeSettings">a Lineage rendszerbeállításainak módosítása</string>
-    <string name="permdesc_writeSettings">Engedélyezi egy alkalmazás számára, hogy módosítsa a Lineage rendszerbeállításait.</string>
-    <string name="permlab_writeSecureSettings">a Lineage rendszer biztonsági beállításainak módosítása</string>
-    <string name="permdesc_writeSecureSettings">Engedélyezi egy alkalmazás számára, hogy módosítsa a Lineage-rendszer biztonsági beállításait. Nem vonatkozik normál alkalmazásokra.</string>
+    <string name="permdesc_useHardwareFramework">Lehetővé teszi egy alkalmazás számára, hogy hozzáférjen a AlphaDroid hardver-keretrendszeréhez.</string>
+    <string name="permlab_writeSettings">a AlphaDroid rendszerbeállításainak módosítása</string>
+    <string name="permdesc_writeSettings">Engedélyezi egy alkalmazás számára, hogy módosítsa a AlphaDroid rendszerbeállításait.</string>
+    <string name="permlab_writeSecureSettings">a AlphaDroid rendszer biztonsági beállításainak módosítása</string>
+    <string name="permdesc_writeSecureSettings">Engedélyezi egy alkalmazás számára, hogy módosítsa a AlphaDroid-rendszer biztonsági beállításait. Nem vonatkozik normál alkalmazásokra.</string>
     <string name="profileNameDefault">Alapértelmezett</string>
     <string name="profileNameWork">Munka</string>
     <string name="profileNameHome">Otthon</string>
