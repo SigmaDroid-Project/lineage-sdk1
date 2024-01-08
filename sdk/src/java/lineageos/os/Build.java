@@ -16,11 +16,11 @@ public class Build {
     /** Value used for when a build property is unknown. */
     public static final String UNKNOWN = "unknown";
 
-    /** A build ID utilized to distinguish lineageos versions */
-    public static final String CRDROID_VERSION = getString("ro.crdroid.version");
+    /** A build ID utilized to distinguish lineageos and sigma versions */
+    public static final String SIGMA_VERSION = getString("ro.sigma.version");
 
     /** A build ID string meant for displaying to the user */
-    public static final String CRDROID_DISPLAY_VERSION = getString("ro.crdroid.display.version");
+    public static final String SIGMA_DISPLAY_VERSION = getString("ro.sigma.display.version");
 
     private static final SparseArray<String> sdkMap;
     static
